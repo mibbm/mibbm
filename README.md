@@ -7,4 +7,3 @@
 - 🌱 Currently learning: Score-based Generative Modeling, PyTorch  
 - 📬 Contact: hydatapath@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mibbm=anuraghazra&layout=compact)
