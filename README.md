@@ -8,3 +8,7 @@
 - 📬 Contact: hydatapath@gmail.com
 
 ![mibbm's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibbm&show_icons=true&theme=default)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mibbm&show_icons=true&theme=default" />
+</div>
